@@ -83,7 +83,6 @@ CREATE TABLE Tasks
     ReminderDate DATETIME,
     Completed BIT DEFAULT 0
 );
-```
 
 ---
 
