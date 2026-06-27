@@ -1,14 +1,13 @@
-# CyberGuard - Cybersecurity Awareness Chatbot
+ CyberGuard - Cybersecurity Awareness Chatbot
 
-# Project Overview
+Project Overview
 
 CyberGuard is a Windows Presentation Foundation (WPF) application developed in C# using Visual Studio. The application is designed to educate users about cybersecurity by providing interactive conversations, quizzes, reminders, and cybersecurity awareness tips.
 
 The chatbot helps users learn about common cyber threats such as phishing, malware, ransomware, password security, and online privacy while promoting safe online practices.
 
----
 
-## Features
+ Features
 
 * Interactive cybersecurity chatbot
 * Cybersecurity quiz with score tracking
